@@ -1,0 +1,197 @@
+question_id,answer_id,answer_video,question,subject
+21,21,XI_01_E01_05.mp4,"List all the elements of the following sets :
+(i) A
+  = {x : x is an odd natural number}
+(ii) B = {x : x is an integer, `-1/2<x<9/2`
+}
+(iii)  C
+  = {x : x is an integer, `x^2lt=4`
+}
+(iv) D
+  = {x : x is a letter in the word ""LOYAL""}
+(v) E
+  = {x : x i",MATHS
+226,226,XI_03_E01_04.mp4,Find the degree measure of the  angle subtended at the centre of a circle of radius 100 cm by an arc of  length 22 cm (use `pi=(22)/7`).,MATHS
+256,256,XI_04_E01_12.mp4,Prove the following by using the principle of  mathematical induction for all `n in  N`:`a+a r+a r^2+dotdotdot+a r^(n-1)=(a(r^n-1))/(r-1)`,MATHS
+276,276,XI_04_E01_07.mp4,Prove the following by using the principle of  mathematical induction for all `n in  N`:`1. 3 + 3. 5 + 5. 7 + dot dot dot + (2n  1) (2n + 1)=(n(4n^2+6n-1))/3`,MATHS
+311,311,XI_05_E02_05.mp4, Convert of the complex number in the polar form: `1-i`,MATHS
+341,341,answer-1501523457.mp4,Evaluate : `[i^(18)+(1/i)^(25)]^3`,MATHS
+461,461,XI_07_E03_08.mp4,"How many words, with or without meaning, can be formed using all
+  the letters of the word EQUATION, using each letter exactly once?",MATHS
+476,476,XI_07_MEX_01.mp4,"How many words, with or without meaning, each of 2 vowels and 3
+  consonants can be formed from the letters of the word DAUGHTER ?",MATHS
+491,491,XI_07_E02_05.mp4,"Evaluate `(n !)/((n-r)!),`when (i) `n = 6, r = 2` (ii)  `n = 9, r = 5`",MATHS
+501,501,XI_08_E01_05.mp4,Expand of the expression : `(x+1/x)^6`,MATHS
+506,506,XI_08_E01_02.mp4,Expand of the expression : `(2/5-x/2)^5`,MATHS
+606,606,XI_09_E01_10.mp4,Find  the indicated terms of the sequence whose `n^(t h)`terms are :<br> `a_n=(n(n-2))/(n+3)`; `a_(20)`,MATHS
+781,781,XI_11_E04_12.mp4,"Find the equations of the hyperbola satisfying the given  conditions :Foci `(+-3sqrt(5),0)`, the latus rectum is of length 8.",MATHS
+796,796,XI_11_E02_07.mp4,"Find the equation of the parabola that satisfies the given  conditions:<br>Focus `(6, 0)`; directrix `x = 6`",MATHS
+836,836,XI_11_MEX_05.mp4,"A rod of length 12 cm moves with its ends always touching the
+  coordinate axes. Determine the equation of the locus of a point P on the rod,
+  which is 3 cm from the end in contact with the xaxis.",MATHS
+1051,1051,XI_15_MEX_07.mp4,"The mean and standard deviation of a group of `100` observations  were found to be `20` and `3`, respectively. Later on it was found that three  observations were incorrect, which are recorded as `21, 21` and `18.` Find the  mean and standard deviation if the incorrect observations are omitted.",MATHS
+1056,1056,XI_15_E01_02.mp4,"Find the mean deviation about the mean for the data  : `38 , 70 , 48 , 40 , 42 , 55 , 63 , 46 , 54 , 44`",MATHS
+1061,1061,XI_15_E03_01.mp4,"For the data given below state which group is more variable, A or  B?<br> <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/XI_15_E03_01_Q001.png"" width=""80%"">",MATHS
+1076,1076,XI_15_E02_07.mp4,"Find the mean and variance for the following  frequency distributions :<br> <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/XI_15_E02_07_Q001.png"" width=""80%"">",MATHS
+1081,1081,XI_15_E02_02.mp4,Find the mean and variance for each of the data : <br>First n natural numbers,MATHS
+1116,1116,XI_16_E03_01.mp4,"Which of the following cannot be valid assignment of  probabilities for outcomes of sample Space `S = {omega_1,omega_2,omega_3,omega_4,omega_5,omega_6,omega_7}`<br>   <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/XI_16_E03_01_Q001.png"" width=""80%"">",MATHS
+1121,1121,XI_16_E02_02.mp4,A die is thrown. Describe the following events:<br>(i) A : a  number less than 7 <br>(ii) B : a number greater than 7<br>(iii) C : a multiple of 3 <br>(iv) D : a number less than 4<br>(v) E : a even number greater than 4<br>(vi) F : a number not less than 3<br> Also find `A,MATHS
+1181,1181,XII_01_E04_13.mp4,"Consider a binary operation. on N defined  `a ** b  = a^3 + b^3.` Choose the correct answer.
+",MATHS
+1191,1191,XII_01_MEX_01.mp4,Let `f: R ->R`be defined as  `f(x) = 10 x + 7`. Find the function `g: R ->R`such  that`gof=fog=1_R`,MATHS
+1206,1206,XII_01_SLV_35.mp4,Show that ` *: R xxR ->R`defined by `a*b = a +2b`is not  commutative.,MATHS
+1226,1226,XII_01_E01_05.mp4,"Check whether the relation R in R defined by `R={(a ,b):alt=b^3}`is  reflexive, symmetric or transitive.",MATHS
+1236,1236,XII_01_SLV_40.mp4,"Show that `"" ""a`
+is not the
+  inverse of `a in  N`
+for the
+  addition operation + on N and `1/a`
+ is
+  not the inverse of `a in  N`
+for multiplication operation `xx`
+on N,
+  for `a!=1`
+.",MATHS
+1271,1271,XII_01_E03_13.mp4,"If `f: R->R`be  given by `f(x)=(3-x^3)^(1//3)`, then `fof(x)`is(a) `1/(x^3)` (b)  `x^3`  (c) x (d) `(3-x^3)`",MATHS
+1286,1286,XII_02_E02_06.mp4,"Write the following function in the simplest form: `tan^(-1)1/(sqrt(x^2-1)),|x|>1`",MATHS
+1291,1291,XII_02_E02_21.mp4,`tan^(-1)sqrt(3)-cot^(-1)(-sqrt(3))`is equal to(A) `pi` (B) `-pi/2` (C) 0 (D) `2sqrt(3)`,MATHS
+1296,1296,XII_02_MEX_13.mp4,Solve the equations.`2tan^(-1)(cosx)=tan^(-1)(2cose c x)`,MATHS
+1311,1311,XII_02_SLV_08.mp4,"Find the value of `cos(sec^(-1)x+cose c^(-1)x),|x|geq1`",MATHS
+1346,1346,XII_02_SLV_12.mp4,"Simplify `tan^(-1)[(acosx-bsinx)/(bcosx+asinx)],`
+if `a/btanx >-1`
+.",MATHS
+1391,1391,XII_03_E04_04.mp4,"Using elementary transformations, find the inverse
+  of the matrix
+`[2 3 5 7]`",MATHS
+1396,1396,XII_03_E04_02.mp4,"Using elementary transformations, find the inverse  of the matrix`[2 1 1 1]`",MATHS
+1411,1411,XII_03_E03_07.mp4," (i) Show that the matrix `A=[[1,-1, 5],[-1, 2, 1],[ 5, 1, 3]]`is a  symmetric matrix. <br> (ii) Show that the matrix `A=[[0, 1,-1],[-1, 0, 1],[ 1,-1, 0]]`is a  skew symmetric matrix.",MATHS
+1421,1421,XII_03_E02_17.mp4,"If  `A=[[3,-2],[ 4,-2]]`and `I=[[1, 0],[ 0, 1]]`, find k so that `A^2=k A-2I`.",MATHS
+1431,1431,XII_03_E04_11.mp4,"Using elementary transformations, find the inverse  of each of the matrices`[2-6 1-2]`",MATHS
+1786,1786,XII_06_MEX_19.mp4,A cylindrical tank of radius 10 m is being filled  with wheat at the rate of 314 cubic metre per hour. Then the depth of the  wheat is increasing at the rate of(A) 1 `m^3//h` (B)  0.1 `m^3//h`  (C) 1.1 `m^3//h`  (D) 0.5 `m^3//h`,MATHS
+1796,1796,XII_06_E04_07.mp4,"If the
+  radius of a sphere is measured as 9 m with an error of 0.03 m, then find the approximate
+  error in calculating its surface area.",MATHS
+1801,1801,XII_06_E04_02.mp4,"Find the approximate value of `f(2. 01)`, where `f(x)=4x^2+5x+2`.",MATHS
+1816,1816,XII_06_E02_02.mp4,Show that the function given by `f(x)=e^(2x)` is  strictly increasing on R.,MATHS
+1821,1821,XII_06_E01_18.mp4,"The total revenue in Rupees received from the sale  of x units of a product is given by `R(x)=3x^2+36 x+5`. The marginal revenue, when `x = 15`is (A) 116  (B)  96  (C) 90  (D) 126",MATHS
+1826,1826,XII_06_E01_17.mp4,The rate of change of the area of a circle with  respect to its radius r at `r = 6`cm is(A) `10pi` (B) `12pi` (C) `8pi` (D) `11pi`,MATHS
+1831,1831,XII_06_E02_19.mp4,"The interval in which `y=x^2""""e^(-x)`
+is
+  increasing is
+(A) `(-oo,""""""""oo)`
+ (B)
+  ( 2, 0)  (C) `(2,""""""""oo)`
+ (D)
+  (0, 2)",MATHS
+1836,1836,XII_06_E02_16.mp4,"Prove that the function f given by `f(x)"" ""="" ""log"" ""s in"" ""x`
+`f(x)"" ""="" ""log"" ""s in"" ""x`
+is strictly
+  increasing on `(0,pi/2)`
+and strictly decreasing on `(pi/2,pi)`
+.",MATHS
+1841,1841,XII_06_E03_10.mp4,"Find the equation of all lines having slope ` 1`that are tangents to the curve `y=1/(x-1), x!=1`.",MATHS
+1851,1851,XII_06_MEX_21.mp4,The line `y = m x + 1`is a tangent to the curve `y^2=4x`if the value  of m is(A) 1  (B)  2  (C) 3  (D) `1/2`,MATHS
+1856,1856,XII_06_E01_06.mp4,"The radius of a circle is increasing at the rate of
+  0.7 cm/s. What is the rate of increase of its circumference?",MATHS
+1861,1861,XII_06_E01_08.mp4,"A balloon, which always remains spherical on
+  inflation, is being inflated by pumping in 900 cubic centimetres of gas per
+  second. Find the rate at which the radius of the balloon increases when the
+  radius is 15 cm.",MATHS
+1876,1876,XII_06_E03_03.mp4,Find the slope of the tangent to curve `y=x^3-x+1` at  the point whose x-coordinate is 2.,MATHS
+1906,1906,XII_06_E03_26.mp4,The slope of the normal to the curve `y=2x^2+3`sin x  at `x = 0`is(A) 3 (B)  `1/3` (C)`-3` (D) `-1/3`,MATHS
+1916,1916,XII_06_E05_09.mp4,"What is the maximum value of the function `s in"" ""x"" ""+"" ""cos"" ""x`
+?",MATHS
+1931,1931,XII_06_E04_05.mp4,"Find the approximate change in the surface area of a
+  cube of side x metres caused by decreasing the side by 1%.",MATHS
+2296,2296,XII_08_E01_04.mp4,Find the area of the region  bounded by the ellipse `(x^2)/(16)+(y^2)/9=1`.,MATHS
+2301,2301,answer-1499318201.mp4,Find the area bounded by  curves `(x-1)^2+y^2=1`and `x^2+y^2=1`.,MATHS
+2306,2306,XII_08_E02_04.mp4,"Using integration find the  area of region bounded by the triangle whose vertices are `( 1, 0), (1, 3) a n d (3, 2)`.",MATHS
+2311,2311,XII_09_MEX_10.mp4,Solve the differential equation `y e^(x/y)dx=(x e^(x/y)+y^2)dy(y!=0)`,MATHS
+2316,2316,XII_09_MEX_15.mp4,"The population of a village increases continuously
+  at the rate proportional to the number of its inhabitants present at any
+  time. If the population of the village was 20, 000 in 1999 and 25000 in the
+  year 2004, what will be the population of the ",MATHS
+2326,2326,XII_09_E04_07.mp4,"Find the general solution of
+  the differential equations 
+y log y dx  x dy = 0",MATHS
+2331,2331,XII_09_E04_01.mp4,Find the general solution of  the differential equations `(dy)/(dx)=(1-cosx)/(1+cosx)`,MATHS
+2341,2341,XII_09_E02_08.mp4,Verify that the given  functions (explicit or implicit) is a solution of the corresponding  differential equation:`y -cos y = x` : (y sin y + cos y + x) y^'= y,MATHS
+2346,2346,XII_09_E06_14.mp4,"The  differential equations, find a particular solution satisfying the given  condition: `(1+x^2)(dy)/(dx)+2x y=1/(1+x^2); y=0`when `x = 1`",MATHS
+2351,2351,XII_09_E06_07.mp4,Find the general solution of the  differential equations:`xlogx(dx)/(dy)+y=2/xlogx`,MATHS
+2356,2356,XII_09_SLV_14.mp4,"In a bank, principal
+  increases continuously at the rate of 5% per year. In how many years Rs 1000
+  double itself?",MATHS
+2371,2371,XII_09_E03_06.mp4,"Form the differential
+  equation of the family of circles touching the y-axis at origin.",MATHS
+2381,2381,XII_09_SLV_03.mp4,"Verify that the function`y"" ""="" ""a"" ""cos"" ""x"" ""+"" ""b"" ""s in"" ""x`
+, where, a, `b """" in  R`
+is a solution of the differential equation `(d^2y)/(dx^2)+y=0`
+.",MATHS
+2386,2386,XII_09_MEX_04.mp4,"Prove  that `x^2-y^2=c(x^2+y^2)^2`is  the general solution of differential equation `(x^3-3xy^2)dx=(y^3-3x^2y)dy`,  where c is a parameter.",MATHS
+2391,2391,XII_09_E05_04.mp4,Show  that the given differential equation is homogeneous and solve each of them.`(x^2-y^2)dx+2x ydy=0`,MATHS
+2396,2396,XII_09_E05_02.mp4,Show  that the given differential equation is homogeneous and solve each of them.`yprime=(x+y)/x`,MATHS
+2406,2406,XII_09_SLV_20.mp4,Find  the general solution of the differential equation `x(dy)/(dx)+2y=x^2(x!=0)`.,MATHS
+2411,2411,XII_09_E05_17.mp4,Which  of the following is a homogeneous differential equation?(A)  `(4x + 6y + 5) dy  (3y + 2x + 4) dx = 0`(B)  `(x y)dx-(x^3+y^3)dy=0`(C)  `(x^3+2y^2)dx+2x ydy=0`(D)  `y^2dx+(x^2-x y-y^2)dy=0`,MATHS
+2421,2421,answer-1497338088.mp4,Determine order and degree  (if defined) of differential equations given`((d s)/(dt))^4+3s(d^2s)/(dt^2)=0`,MATHS
+2426,2426,answer-1497338088.mp4,"Determine order and degree
+  (if defined) of differential equations given
+`(y^m)^2+(yprimeprime)^3+(yprime)^4+y^5=0`",MATHS
+2431,2431,XII_09_E06_02.mp4,Find the general solution of the  differential equations:`(dx)/(dy)+3y=e^(-2x)`,MATHS
+2441,2441,XII_09_SLV_10.mp4,Find  the general solution of the differential equation `(dy)/(dx)=(1+y^2)/(1+x^2)`.,MATHS
+2566,2566,XII_11_E02_16.mp4,Find the  shortest distance between the lines whose vector equations are ` -> r=( hat i+2 hat j+3 hat k)+lambda( hat i-3 hat j+2 hat k)`and ` -> r=4 hat i+5 hat j+6 hat k+mu(2 hat i+3 hat j+ hat k)`.,MATHS
+2576,2576,XII_11_MEX_11.mp4,"Find
+  the coordinates of the point where the line through (5, 1, 6) and (3, 4, 1)
+  crosses the ZX-plane.",MATHS
+2581,2581,XII_11_SLV_29.mp4,Show that the  lines `(x-a+d)/(alpha-delta)=(y-a)/alpha=(z-a-d)/(alpha+delta)`and `(x-b+c)/(beta-gamma)=(y-b)/beta=(z-b-c)/(beta+gamma)`are  coplanar.,MATHS
+2621,2621,XII_11_MEX_20.mp4,"Find the vector equation
+  of the line passing through the point `(1,"" ""2,"" """" ""4)`
+and perpendicular to the two lines: `(x-8)/3=(y+19)/(-16)=(z-10)/7`
+and `(x-15)/3=(y-29)/8=(z-5)/(-5)`",MATHS
+2651,2651,XII_12_SLV_10.mp4,"(Manufacturing problem) A
+  manufacturer has three machines I, II and III installed in his factory.
+  Machines I and II are capable of being operated for at most 12 hours whereas machine HI must be
+  operated for atleast 5 hours a day. She produces onl",MATHS
+2666,2666,XII_12_E01_02.mp4,"Solve the Following Linear Programming Problem  graphically : Minimise `Z =-  3x + 4y`Subject to `x+2ylt=8,3x+2ylt=12 ,xgeq0,ygeq0`.",MATHS
+2711,2711,XII_13_E03_06.mp4,"There are three coins. One is a two headed coin (having head on both
+  faces), another is a biased coin that comes up heads 75% of the time and
+  third is an unbiased coin. One of the three coins is chosen at random and
+  tossed, it shows heads, what i",MATHS
+2716,2716,XII_13_E01_05.mp4,"If `P (A) =6/(11)`, `P(B) =5/(11)`and `P(AuuB)=7/(11)`, find(i) `P(AnnB)` (ii) `P(A|B)`  (iii) `P(B|A)`",MATHS
+2736,2736,XII_13_E04_09.mp4,"The random variable X has a probability distribution
+  P(X) of the following form, where k is some number :
+P(X) = `{k ,""""""""""""""""""""""""""""if""""x=0 2k ,""""""""""""""""if""""""""x=1 3k ,""""""""""""""""if""""""""x=2 0,""""""""ot h e r w i s e`
+
+(a) Determine
+  the value of k. 
+(b) Find",MATHS
+2741,2741,XII_13_MEX_05.mp4,"An urn contains 25 balls of which 10 balls bear a
+  mark ""X"" and the remaining 15 bear a mark T. A ball is drawn at random from
+  the urn, its mark is noted down and it is replaced. If 6 balls are drawn in
+  this way, find the probability that
+(i) all ",MATHS
+2746,2746,XII_13_E04_03.mp4,"Let X represent the difference
+  between the number of heads and the number of tails obtained when a coin is
+  tossed 6 times. What are possible values of X?",MATHS
+2751,2751,XII_13_E04_06.mp4,"From a lot of 30 bulbs which
+  include 6 defectives, a sample of 4 bulbs is drawn at random with
+  replacement. Find the probability distribution of the number of defective
+  bulbs.",MATHS
+2766,2766,XII_13_E04_17.mp4,Suppose that two cards are drawn  at random from a deck of cards. Let X be the number of aces obtained. Then  the value of E(X) is(A) `(37)/(221)` (B)  `5/(13)` (C)  `1/(13)` (D)  `2/(13)`,MATHS
+2776,2776,XII_13_E02_15.mp4,One card is drawn at random  from a well shuffled deck of 52 cards. In which of the following cases are  the events E and F independent?<br>(i)E : the card drawn is a spade F : the card drawn is an  ace <br>(ii) E : the card drawn is black F : the card drawn is a  king<br>(iii)E : the card drawn is a king or queen F : the card drawn  is a queen or jack.,MATHS
+3046,3046,answer-1498206309.mp4,"Divide the polynomial p(x) by the polynomial g(x) and find the  quotient and remainder in each of the following :`p(x)=x^3-3x^2+5x-3,g(x)=x^2-2`",MATHS
+3061,3061,X_02_E03_02C.mp4,"Check whether the first polynomial  is a factor of the second polynomial by dividing the second polynomial by the  first polynomial :`x^3-3x+1,x^5-4x^3+x^2+3x+1`",MATHS
+3181,3181,X_05_E03_07.mp4,Find the sum of first 22 terms of an AP in which d=7 and 22nd term is  149.,MATHS
+3311,3311,X_07_E01_07.mp4,"Find the point on the x-axis which is equidistant from `(2,\ -5)\ and\ (-2,\ 9)`",MATHS
+3341,3341,X_07_E03_04.mp4,"Find
+  the area of the quadrilateral whose vertices, taken in order, are `(4,""\ ""2),""\ ""(3,""\ ""5),""\ ""(3,""\ ""2)""\ ""a n d""\ ""(2,""\ ""3)dot`",MATHS
+4005,3921,IX_14_E03_03.mp4,"Given below are the seats won by different political parties in the polling outcome of a state assembly elections: (i) Draw a bar graph to represent the polling result<br> <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/IX_14_E03_03_Q01.png"" width=""40%"">",MATHS
+4569,4411,VI_08_E01_01.mp4,"Write the following as numbers in the given table.<br>   <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/VI_08_E01_01_Q001.png"" width=""80%"">",MATHS
+4829,4671,VIII_01_E01_11.mp4,"Fill in the blanks.
+(i) Zero has ________ reciprocal.
+(ii) The numbers ________ and ________ are their own
+  reciprocals
+(iii) The reciprocal of <img class=""ee_img tr_noresize""
+  alt=""--{\rm{ }}5""
+  src=""http://chart.apis.google.com/chart?cht=tx&amp;ch",MATHS
+4949,4791,VIII_03_SLV_01.mp4,"Find measure x in Fig 3.9. <br>   <img src=""https://d10lpgp6xz60nq.cloudfront.net/physics_images/VIII_03_SLV_01_Q001.png"" width=""80%"">",MATHS
+4959,4801,VIII_03_E03_03.mp4,"Can a quadrilateral `ABCD` be a parallelogram if <br>(i)  `< D + < B=180^@` ?<br>  (ii)  `AB=DC=8cm, AD=4cm and BC=4.4cm` ? <br> (iii)  `A=70^@ and < C = 65^@` ?",MATHS

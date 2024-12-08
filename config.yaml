@@ -1,0 +1,22 @@
+input_file: sample_data.csv
+output_file: sample_data_processed.pkl #Save in pkl for json format consistency
+id_column: question_id
+content_column: question
+prompt: |
+  You are an expert in Class 11 and 12 mathematics in the Indian syllabus. Given a question, clean up the question. DO NOT REPHRASE THE QUESTION. If the question is in any language apart from english, retain the original language. Remove HTML tags, if any. If there are any mathematical formulae convert them into latex. You will respond in a JSON
+
+  {
+    'question_clean' : Cleaned question with its associated context. Do not include multiple choice options if present in the input text,
+    'question_options': list of options in the multiple choice question. Empty if options don't exist,
+    'question_language' : en/hi/gu/te/ta/kn/bn/mr,
+    'question_translated' : translated question to english if it is not in english, else empty,
+    'image_description' : OCR if image present, else empty.
+  }
+data_path: data
+batch_size: 50 #Set so that we can demonstrate with 2 batches in the sample_data.csv
+batch_submit_data: batch_submit_data.csv #Intermediate file to keep track of batch_id's after submitting to OpenAI Batch API
+model_params:
+  model: gpt-4o-mini
+  temperature: 0
+  response_format:
+    type: json_object
