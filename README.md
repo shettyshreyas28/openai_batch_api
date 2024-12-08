@@ -17,6 +17,7 @@ Utilities to ease creating OpenAI Batch API calls, monitor status of submitted j
 
 ## Running the script
 * Setup config.yaml
+* Update the .env file in the current folder to enable loading the OPENAI_API_KEY
 * Run ```python create_batch_and_submit.py```
 * Once that above script is run, check the status of jobs by running ```python status_jobs.py```
 * Output of the status_jobs script should look like below
