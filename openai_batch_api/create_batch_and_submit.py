@@ -38,6 +38,7 @@ def main():
     prompt = config["prompt"]
     batch_size = config["batch_size"]
     model_params = config["model_params"]
+    image_url = config.get('image_url', None)
     batch_submit_data = "batch_submit_data.csv"
     data_path = config["data_path"]
 
@@ -58,7 +59,7 @@ def main():
     for idx, row in df.iterrows():
         _id = row[id_column]
         content = row[content_column]
-        task = create_task(_id, prompt, content, model_params)
+        task = create_task(_id, prompt, content, image_url, model_params)
         tasks.append(task)
 
     # Compute the number of batches to be created

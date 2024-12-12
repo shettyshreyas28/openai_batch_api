@@ -50,12 +50,12 @@ def load_config(config_file):
     return config
 
 
-def create_task(_id, prompt, content, model_params):
+def create_task(_id, prompt, content, image_url, model_params):
     task = {
         "custom_id": f"task:{_id}",  # First 5 letters are task: and the rest is identifier for each task
         "method": "POST",
         "url": "/v1/chat/completions",
-        "body": {**model_params, "messages": message_builder(prompt, content)},
+        "body": {**model_params, "messages": message_builder(prompt, content, image_url)},
     }
     return task
 
