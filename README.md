@@ -35,6 +35,7 @@ pip install .
 
 # Prerequisites
 **Python dependencies**
+
 Ensure that you have python 3.10 or later installted. All required dependencies will be installed automatically during the module installation.
 
 **Environment Variables**
@@ -43,6 +44,7 @@ export OPENAI_API_KEY="<your_api_key>"
 ```
 
 **config.yaml**
+
 The ```config.yaml``` file is not included in the repository. You must create this file and provide its path when running the scripts. Below is 
 an example of the ```config.yaml``` structure:
 ```yaml
