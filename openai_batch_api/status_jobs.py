@@ -80,6 +80,10 @@ def main():
     data_path = config["data_path"]
     batch_data_path = f"{data_path}/batch_submit_data.csv"
 
+    if not os.path.exists(batch_data_path):
+        print("Looks like you have not submitted any jobs yet")
+        return
+
     API_KEY = os.getenv("OPENAI_API_KEY")
 
     if API_KEY is None:
