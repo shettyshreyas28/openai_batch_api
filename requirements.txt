@@ -1,0 +1,6 @@
+pandas
+pyyaml
+tabulate
+python-dotenv
+openai
+requests
