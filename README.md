@@ -1,6 +1,6 @@
-# openai-batch-api
+# openai_batch_api
 
-The **openai-batch-api** python package enables batch processing with OpenAI Batch API. It includes functionalities for:
+The **openai_batch_api** python package enables batch processing with OpenAI Batch API. It includes functionalities for:
 - Creating and submitting batches
 - Monitoring batch statuses
 - Collating outputs
