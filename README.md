@@ -1,6 +1,6 @@
-# openai_batch_api
+# openai-batch-api
 
-The **openai_batch_api** python package enables batch processing with OpenAI Batch API. It includes functionalities for:
+The **openai-batch-api** python package enables batch processing with OpenAI Batch API. It includes functionalities for:
 - Creating and submitting batches
 - Monitoring batch statuses
 - Collating outputs
@@ -35,7 +35,6 @@ pip install .
 
 # Prerequisites
 **Python dependencies**
-
 Ensure that you have python 3.10 or later installted. All required dependencies will be installed automatically during the module installation.
 
 **Environment Variables**
@@ -44,7 +43,6 @@ export OPENAI_API_KEY="<your_api_key>"
 ```
 
 **config.yaml**
-
 The ```config.yaml``` file is not included in the repository. You must create this file and provide its path when running the scripts. Below is 
 an example of the ```config.yaml``` structure:
 ```yaml
@@ -82,6 +80,8 @@ create-batch --config path/to/config.yaml
 ```python
 status-jobs --config path/to/config.yaml #Choose the appropriate data folder based on create-batch output
 ```
+Output of ```status-jobs``` should look like below
+![status_jobs.py output](/image/status_jobs_sample.png)
 
 **Collate Results**
 ```python
