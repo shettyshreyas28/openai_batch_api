@@ -49,6 +49,7 @@ an example of the ```config.yaml``` structure:
 input_file: "path/to/input.csv"
 id_column: "id"
 content_column: "content"
+image_url: "column containing image url for the input row"
 prompt: "Your prompt here"
 batch_size: 50
 model_params:
@@ -62,6 +63,7 @@ data_path: "path/to/data/folder"
 * input_file: Path to the input file (CSV or PKL).
 * id_column: Column name for unique identifiers in the input file.
 * content_column: Column name for task content.
+* image_url_column: Column name for image urls corresponding to each row. Can be left unspecified
 * prompt: Prompt to be used for task generation.
 * batch_size: Number of tasks per batch.
 * model_params: Parameters for the OpenAI model (e.g., temperature, max_tokens).
