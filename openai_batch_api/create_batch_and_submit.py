@@ -38,7 +38,7 @@ def main():
     prompt = config["prompt"]
     batch_size = config["batch_size"]
     model_params = config["model_params"]
-    image_url = config.get('image_url', None)
+    image_url_column = config.get('image_url_column', None)
     batch_submit_data = "batch_submit_data.csv"
     data_path = config["data_path"]
 
@@ -59,6 +59,7 @@ def main():
     for idx, row in df.iterrows():
         _id = row[id_column]
         content = row[content_column]
+        image_url = row.get(image_url_column, None)
         task = create_task(_id, prompt, content, image_url, model_params)
         tasks.append(task)
 
