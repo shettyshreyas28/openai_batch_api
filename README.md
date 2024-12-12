@@ -78,7 +78,7 @@ create-batch --config path/to/config.yaml
 
 **Check Batch Status**
 ```python
-status-jobs --config path/to/config.yaml #Choose the appropriate data folder based on create-batch output
+status-jobs --config path/to/config.yaml
 ```
 Output of ```status-jobs``` should look like below
 ![status_jobs.py output](/image/status_jobs_sample.png)
