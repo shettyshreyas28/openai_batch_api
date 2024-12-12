@@ -39,11 +39,11 @@ Ensure that you have python 3.10 or later installted. All required dependencies 
 
 **Environment Variables**
 ```bash
-export OPENAI_API_KEY="<your_api_key>":w
+export OPENAI_API_KEY="<your_api_key>"
 ```
 
 **config.yaml**
-The ```config.yaml`` file is not included in the repository. You must create this file and provide its path when running the scripts. Below is 
+The ```config.yaml``` file is not included in the repository. You must create this file and provide its path when running the scripts. Below is 
 an example of the ```config.yaml``` structure:
 ```yaml
 input_file: "path/to/input.csv"
@@ -84,6 +84,11 @@ status-jobs --config path/to/config.yaml #Choose the appropriate data folder bas
 **Collate Results**
 ```python
 collate-output --config path/to/config.yaml
+```
+
+**Delete task files**
+```python
+delete-tasks --config path/to/config.yaml
 ```
 
 # Directory Structure

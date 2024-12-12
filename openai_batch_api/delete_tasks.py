@@ -4,7 +4,7 @@ import shutil
 
 import pandas as pd
 
-from utils import load_config
+from openai_batch_api.utils import load_config
 
 
 def main():
