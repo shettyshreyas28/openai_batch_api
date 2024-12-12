@@ -30,6 +30,11 @@ def main():
     batch_data_file = config["batch_submit_data"]
     data_path = config["data_path"]
     batch_file = os.path.join(data_path, batch_data_file)
+
+    if not os.path.exists(batch_file):
+        print('You have not submitted any jobs yet')
+        return
+
     batch_df = pd.read_csv(batch_file)
 
     results_data = []
