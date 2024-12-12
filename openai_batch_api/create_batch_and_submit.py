@@ -23,6 +23,11 @@ def main():
     args = parser.parse_args()
 
     load_dotenv()
+
+    if os.getenv("OPENAI_API_KEY"):
+        print("You have not set your OPENAI_API_KEY. Please set the key and re-run")
+        return
+
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
     config = load_config(args.config)
